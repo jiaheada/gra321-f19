@@ -1,0 +1,9 @@
+/* webcss for index.html */
+
+body{
+    font-family: ff-brokenscript-bc-web, serif;
+
+    font-weight: 700;
+
+    font-style: normal;
+}
