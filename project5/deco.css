@@ -1,0 +1,29 @@
+/* deco for project 5 */
+
+body {
+    color: darkgreen;
+    font-family: rumba-small, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: .5px;
+    line-height: 1.5;
+    padding: 10%
+    
+}
+
+h1 {
+  color:cadetblue;
+    font-weight: 500;
+}
+
+h2 {
+    color: hotpink;
+    font-weight: 500;
+}
+img{
+    max-width: 100%
+}
+
+ul {
+    margin-bottom: 2rem;
+}
